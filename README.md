@@ -18,7 +18,7 @@ You need a C compiler installed on your machine. If you don't have one, you can 
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/mishra-cafe.git
+    git clone https://github.com/Arunabha39/mishra-cafe.git
     ```
 
 2. Navigate to the project directory:
