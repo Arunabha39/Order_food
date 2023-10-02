@@ -18,7 +18,7 @@ You need a C compiler installed on your machine. If you don't have one, you can 
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/Arunabha39/Order_food.git
+    git clone https://github.com/Arunabha39/food_order.c.git
     ```
 
 2. Navigate to the project directory:
