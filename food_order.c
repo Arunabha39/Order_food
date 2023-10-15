@@ -6,7 +6,7 @@ void  main(){
 
     printf("******************Welcome to Mishra Cafe****************\n");
     printf("Enter your name: ");
-    scanf("%s", name);
+    fgets(name,sizeof(name),stdin);
     printf("Hello, %s!\n", name);
 
     int choice;
